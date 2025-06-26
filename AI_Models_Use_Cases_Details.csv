@@ -1,0 +1,141 @@
+AI Model,Use Case,Logic ,Reasoning ,Coding ,Maths,Creativity,Memory ,Speed ,Accuracy ,Comprehension ,Multimodal 
+GPT-4,Summarization,9,7,5,6,10,5,5,7,10,9
+GPT-4,Translation,8,10,5,5,6,7,6,8,7,8
+GPT-4,Code Generation,7,6,10,10,9,9,10,8,7,9
+GPT-4,Math Problem Solving,6,7,6,5,5,8,9,6,6,9
+GPT-4,Text Completion,8,9,6,8,5,8,7,5,6,9
+GPT-4,Question Answering,8,9,5,5,9,8,8,6,10,9
+GPT-4,Data Analysis,5,6,6,7,8,5,8,5,7,8
+GPT-4,Chatbot Support,10,6,5,7,5,6,8,5,8,5
+GPT-4,Email Writing,10,5,10,7,8,6,6,7,6,10
+GPT-4,Story Writing,6,5,8,10,8,10,6,8,5,10
+GPT-4,Image Captioning,9,5,8,6,6,9,7,7,5,10
+GPT-4,Speech Recognition,8,10,10,7,6,8,10,6,8,7
+GPT-4,Sentiment Analysis,9,6,10,7,8,6,8,6,7,7
+GPT-4,Legal Document Review,6,6,5,9,7,9,6,5,10,5
+GPT-4,Medical Diagnosis Support,8,10,10,8,5,9,6,5,8,6
+GPT-4,Resume Screening,5,5,7,7,6,7,9,8,10,10
+GPT-4,Financial Forecasting,9,6,6,9,5,5,5,8,9,9
+GPT-4,Recommendation System,8,7,8,6,6,7,6,5,10,6
+GPT-4,Game Playing,9,8,6,10,8,5,6,7,9,8
+GPT-4,Scientific Research Assistance,8,10,6,8,7,7,6,8,9,6
+Claude 3,Summarization,9,9,6,8,10,8,6,5,9,8
+Claude 3,Translation,6,5,6,5,9,5,5,6,9,8
+Claude 3,Code Generation,9,9,6,9,9,8,8,10,5,6
+Claude 3,Math Problem Solving,8,9,5,10,9,10,10,10,8,6
+Claude 3,Text Completion,9,7,7,8,5,6,6,8,8,8
+Claude 3,Question Answering,5,5,7,5,7,9,10,6,5,6
+Claude 3,Data Analysis,7,7,5,6,5,5,7,5,9,8
+Claude 3,Chatbot Support,6,10,9,7,8,10,8,9,10,7
+Claude 3,Email Writing,5,10,7,8,8,9,6,9,8,10
+Claude 3,Story Writing,5,6,5,9,7,7,6,9,10,10
+Claude 3,Image Captioning,8,10,9,6,7,6,8,10,5,5
+Claude 3,Speech Recognition,6,6,9,10,5,6,5,9,8,7
+Claude 3,Sentiment Analysis,7,9,9,10,5,8,7,5,7,7
+Claude 3,Legal Document Review,9,6,8,6,8,8,7,5,10,6
+Claude 3,Medical Diagnosis Support,6,10,10,10,10,6,9,5,9,9
+Claude 3,Resume Screening,8,5,5,10,8,5,8,10,10,8
+Claude 3,Financial Forecasting,6,10,5,9,6,6,10,5,7,10
+Claude 3,Recommendation System,9,8,9,7,9,9,6,6,5,9
+Claude 3,Game Playing,7,8,8,6,5,7,10,7,10,8
+Claude 3,Scientific Research Assistance,7,8,8,6,10,6,10,9,8,9
+Gemini 1.5,Summarization,9,6,6,10,9,6,10,7,7,7
+Gemini 1.5,Translation,6,5,5,6,10,8,8,10,8,7
+Gemini 1.5,Code Generation,8,10,9,6,10,8,9,6,5,10
+Gemini 1.5,Math Problem Solving,10,10,10,10,9,5,5,7,9,6
+Gemini 1.5,Text Completion,8,6,5,10,9,5,9,9,9,9
+Gemini 1.5,Question Answering,10,5,8,5,7,7,5,8,6,7
+Gemini 1.5,Data Analysis,8,6,8,5,10,5,6,5,6,5
+Gemini 1.5,Chatbot Support,7,5,5,7,6,8,6,5,7,7
+Gemini 1.5,Email Writing,5,9,8,5,8,8,9,6,8,7
+Gemini 1.5,Story Writing,5,5,10,10,7,8,6,10,6,9
+Gemini 1.5,Image Captioning,10,10,9,8,9,8,10,6,7,6
+Gemini 1.5,Speech Recognition,5,7,7,9,10,7,7,8,10,8
+Gemini 1.5,Sentiment Analysis,5,10,6,10,8,9,8,10,6,6
+Gemini 1.5,Legal Document Review,7,6,9,8,7,5,6,7,9,6
+Gemini 1.5,Medical Diagnosis Support,7,10,7,10,5,8,7,6,6,10
+Gemini 1.5,Resume Screening,5,10,10,9,6,9,5,6,9,8
+Gemini 1.5,Financial Forecasting,5,5,5,10,10,8,8,10,10,8
+Gemini 1.5,Recommendation System,9,8,10,7,9,6,8,5,7,5
+Gemini 1.5,Game Playing,5,6,6,10,8,8,5,7,5,6
+Gemini 1.5,Scientific Research Assistance,9,6,9,7,8,7,6,8,9,5
+Mistral,Summarization,7,8,7,8,8,9,7,9,9,8
+Mistral,Translation,5,6,10,10,9,5,9,7,5,6
+Mistral,Code Generation,10,5,8,5,5,5,7,10,6,9
+Mistral,Math Problem Solving,9,10,5,10,6,8,8,10,9,9
+Mistral,Text Completion,9,7,6,6,5,10,8,7,8,7
+Mistral,Question Answering,9,10,8,10,7,5,7,7,10,6
+Mistral,Data Analysis,5,7,9,5,10,5,9,8,6,8
+Mistral,Chatbot Support,10,5,10,10,6,8,8,8,8,9
+Mistral,Email Writing,9,5,8,5,6,6,9,7,6,8
+Mistral,Story Writing,9,6,5,9,5,8,9,6,6,9
+Mistral,Image Captioning,9,8,7,6,5,7,7,5,5,9
+Mistral,Speech Recognition,9,8,7,6,8,5,7,10,5,9
+Mistral,Sentiment Analysis,6,8,9,5,9,7,6,5,8,10
+Mistral,Legal Document Review,9,9,9,5,7,7,7,5,5,7
+Mistral,Medical Diagnosis Support,9,10,5,5,5,6,6,8,9,7
+Mistral,Resume Screening,9,5,6,5,5,10,10,10,8,6
+Mistral,Financial Forecasting,10,5,8,8,6,6,10,7,6,9
+Mistral,Recommendation System,9,9,6,7,6,5,9,6,10,8
+Mistral,Game Playing,7,8,7,6,9,6,10,9,8,8
+Mistral,Scientific Research Assistance,10,10,7,8,10,6,8,8,10,7
+LLaMA 3,Summarization,9,9,7,6,6,7,6,9,10,7
+LLaMA 3,Translation,8,8,8,10,10,9,10,10,5,5
+LLaMA 3,Code Generation,7,8,10,5,7,5,5,7,5,5
+LLaMA 3,Math Problem Solving,5,9,10,10,8,5,10,7,5,10
+LLaMA 3,Text Completion,7,7,6,5,9,7,5,5,7,8
+LLaMA 3,Question Answering,5,7,9,6,9,9,7,8,7,10
+LLaMA 3,Data Analysis,7,6,8,7,10,9,10,9,6,8
+LLaMA 3,Chatbot Support,10,6,7,10,10,9,9,7,10,5
+LLaMA 3,Email Writing,8,7,10,8,7,9,6,7,5,9
+LLaMA 3,Story Writing,9,9,10,9,7,10,8,5,9,9
+LLaMA 3,Image Captioning,5,8,8,10,8,5,8,10,7,5
+LLaMA 3,Speech Recognition,9,7,9,10,6,8,9,7,8,5
+LLaMA 3,Sentiment Analysis,8,9,5,5,10,7,8,7,5,5
+LLaMA 3,Legal Document Review,5,6,8,8,10,5,5,8,7,6
+LLaMA 3,Medical Diagnosis Support,6,7,5,9,10,8,9,9,8,8
+LLaMA 3,Resume Screening,10,8,8,10,7,9,7,5,7,8
+LLaMA 3,Financial Forecasting,8,8,7,6,5,10,9,6,5,6
+LLaMA 3,Recommendation System,8,7,8,6,8,10,8,6,5,9
+LLaMA 3,Game Playing,7,10,8,5,10,8,6,6,6,6
+LLaMA 3,Scientific Research Assistance,5,7,8,7,6,7,7,7,9,5
+Command R+,Summarization,5,9,5,8,10,10,5,6,8,10
+Command R+,Translation,10,6,8,9,7,8,5,9,9,5
+Command R+,Code Generation,9,7,5,5,6,10,5,7,5,7
+Command R+,Math Problem Solving,10,9,5,9,6,9,7,7,6,6
+Command R+,Text Completion,7,9,5,10,7,10,7,5,8,8
+Command R+,Question Answering,7,9,9,7,10,8,7,5,5,10
+Command R+,Data Analysis,8,10,9,5,7,8,5,10,8,7
+Command R+,Chatbot Support,8,7,10,8,6,9,8,6,10,9
+Command R+,Email Writing,5,7,6,10,5,7,6,10,10,7
+Command R+,Story Writing,9,5,7,5,8,9,5,7,9,8
+Command R+,Image Captioning,9,5,9,5,5,7,7,9,10,6
+Command R+,Speech Recognition,10,7,9,8,7,7,6,10,9,10
+Command R+,Sentiment Analysis,8,10,10,9,10,10,8,5,10,6
+Command R+,Legal Document Review,9,5,7,9,7,10,9,6,9,8
+Command R+,Medical Diagnosis Support,6,7,6,8,9,7,6,6,10,6
+Command R+,Resume Screening,5,7,8,5,6,10,10,9,5,10
+Command R+,Financial Forecasting,8,10,10,6,10,6,10,8,9,10
+Command R+,Recommendation System,7,10,10,9,7,5,5,5,7,5
+Command R+,Game Playing,8,9,5,7,6,7,5,8,10,10
+Command R+,Scientific Research Assistance,7,9,9,7,10,7,6,7,5,8
+Cohere,Summarization,7,5,8,8,5,8,10,10,6,10
+Cohere,Translation,10,9,9,8,8,6,7,7,10,7
+Cohere,Code Generation,9,10,8,9,6,8,6,6,5,7
+Cohere,Math Problem Solving,7,8,8,8,8,5,10,6,8,6
+Cohere,Text Completion,9,9,5,10,9,6,9,10,9,10
+Cohere,Question Answering,8,8,10,5,10,9,7,8,5,8
+Cohere,Data Analysis,5,5,5,10,6,6,10,5,9,7
+Cohere,Chatbot Support,9,6,7,5,10,9,10,8,8,9
+Cohere,Email Writing,6,5,10,8,10,8,8,7,7,6
+Cohere,Story Writing,9,9,9,9,6,6,9,6,7,6
+Cohere,Image Captioning,5,9,7,8,6,6,6,10,9,9
+Cohere,Speech Recognition,7,10,7,5,7,5,5,9,6,6
+Cohere,Sentiment Analysis,7,9,10,6,9,9,7,6,6,6
+Cohere,Legal Document Review,5,9,5,10,9,5,5,10,10,9
+Cohere,Medical Diagnosis Support,8,10,10,8,7,7,10,9,10,7
+Cohere,Resume Screening,5,9,7,7,7,8,9,6,10,9
+Cohere,Financial Forecasting,10,6,10,9,6,10,6,6,9,5
+Cohere,Recommendation System,5,8,5,10,6,5,6,9,7,6
+Cohere,Game Playing,7,5,7,5,7,10,7,9,6,5
+Cohere,Scientific Research Assistance,7,5,8,5,9,10,10,6,6,9
